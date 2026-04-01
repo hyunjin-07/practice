@@ -10,4 +10,4 @@ def add_mul(choice, *args):
     return result
 
 result = add_mul('mul', 1, 2, 3, 4, 5)
-print(result)
+print(result) 

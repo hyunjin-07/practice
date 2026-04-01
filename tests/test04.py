@@ -5,4 +5,4 @@ for mark in marks:
     if mark >= 60:
         print("%d번 학생은 합격입니다." % number)
     else:
-        print("%d번 학생은 불합격입니다." % number)
+        print("%d번 학생은 불합격입니다." % number) 

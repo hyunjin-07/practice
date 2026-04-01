@@ -8,4 +8,4 @@ def add_all(*args):
 
 # 사용해보기
 result = add_all(1, 2, 3, 4, 5)
-print(f"결과: {result}")
+print(f"결과: {result}") 

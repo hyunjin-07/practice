@@ -7,6 +7,6 @@ for i in arr:
     if i > number1:
         number1 = i
     if i < number2:
-        number2 = i
+        number2 = i 
         
 print(number2, number1)

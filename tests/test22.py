@@ -5,4 +5,4 @@ arr = list(map(int, input().split()))
 # 찾으려고 하는 정수를 v에 대입
 v = int(input())
 
-print(arr.count(v))
+print(arr.count(v)) 

@@ -9,4 +9,4 @@ H = H + (M // 60)
 M = M % 60
 #24시가 되면 0시로
 H = H % 24
-print(H, M)
+print(H, M) 

@@ -11,4 +11,4 @@ say_myself("백현진", 20, False)
 '''
 A, B, C = map(int, input().split())
 print(A + B + C)
-print(A * B * C)
+print(A * B * C) 

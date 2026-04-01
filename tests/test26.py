@@ -7,7 +7,7 @@ for i in range(9):
 max_v = arr[0]
 max_i = 0
 
-for i in range(9):
+for i in range(9): 
     if arr[i] > max_v:
         max_v = arr[i]
         max_i = i

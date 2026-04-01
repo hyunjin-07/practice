@@ -7,4 +7,4 @@ elif A == B or A == C:
 elif B == C:
     print(1000 + B * 100)
 else:
-    print(max(A, B, C) * 100)
+    print(max(A, B, C) * 100)  
