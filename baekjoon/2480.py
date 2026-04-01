@@ -1,5 +1,5 @@
-# Problem: 2480
-# Tier: Bronz
+# problem: 2480
+# tier: bronze
 
 a, b, c = map(int, input().split())
 

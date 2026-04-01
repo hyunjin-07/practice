@@ -1,4 +1,4 @@
-# Problem: 2557
-# Tier: Bronz
+# problem: 2557
+# tier: bronze
 
 print("Hello World!")

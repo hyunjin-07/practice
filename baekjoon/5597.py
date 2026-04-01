@@ -1,5 +1,5 @@
-# Problem: 5597
-# Tier: Bronz
+# problem: 5597
+# tier: bronze
 
 # 출석 배열 초기화 (1~30번)
 arr = [0] * 31

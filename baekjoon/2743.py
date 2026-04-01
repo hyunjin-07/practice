@@ -1,5 +1,5 @@
-# Problem: 2743
-# Tier: Bronz
+# problem: 2743
+# tier: bronze
 
 # 단어 입력
 word = input()

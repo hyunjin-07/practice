@@ -1,5 +1,5 @@
-# Problem: 14681
-# Tier: Bronz
+# problem: 14681
+# tier: bronze
 
 x = int(input())
 y = int(input())

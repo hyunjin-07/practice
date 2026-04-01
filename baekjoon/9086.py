@@ -1,5 +1,5 @@
-# Problem: 9086
-# Tier: Bronz
+# problem: 9086
+# tier: bronze
 
 # 테스트 케이스 수 T 입력
 T = int(input())

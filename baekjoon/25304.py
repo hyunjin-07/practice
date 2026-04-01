@@ -1,5 +1,5 @@
-# Problem: 25304
-# Tier: Bronz
+# problem: 25304
+# tier: bronze
 
 total = int(input())
 N = int(input())

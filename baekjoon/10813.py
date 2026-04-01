@@ -1,5 +1,5 @@
-# Problem: 10813
-# Tier: Bronz
+# problem: 10813
+# tier: bronze
 
 # 바구니 수 N, 교환 횟수 M 입력
 N, M = map(int, input().split())

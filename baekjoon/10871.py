@@ -1,5 +1,5 @@
-# Problem: 10871
-# Tier: Bronz
+# problem: 10871
+# tier: bronze
 
 # N과 X 입력
 N, X = map(int, input().split())

@@ -1,5 +1,5 @@
-# Problem: 10818
-# Tier: Bronz
+# problem: 10818
+# tier: bronze
 
 # 정수 개수 입력
 N = int(input())

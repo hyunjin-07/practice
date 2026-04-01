@@ -1,5 +1,5 @@
-# Problem: 2753
-# Tier: Bronz
+# problem: 2753
+# tier: bronze
 
 year = int(input())
 

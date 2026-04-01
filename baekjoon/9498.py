@@ -1,5 +1,5 @@
-# Problem: 9498
-# Tier: Bronz
+# problem: 9498
+# tier: bronze
 
 score = int(input())
 if score >= 90:

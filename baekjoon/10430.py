@@ -1,5 +1,5 @@
-# Problem: 10430
-# Tier: Bronz
+# problem: 10430
+# tier: bronze
 
 A, B, C, = map(int, input().split())
 print((A + B) % C)

@@ -1,5 +1,5 @@
-# Problem: 2562
-# Tier: Bronz
+# problem: 2562
+# tier: bronze
 
 # 입력 받을 9개의 수를 리스트에 저장
 arr = []

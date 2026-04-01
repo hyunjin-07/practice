@@ -1,5 +1,5 @@
-# Problem: 2439
-# Tier: Bronz
+# problem: 2439
+# tier: bronze
 
 A = int(input())
 

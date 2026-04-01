@@ -1,5 +1,5 @@
-# Problem: 10952
-# Tier: Bronz
+# problem: 10952
+# tier: bronze
 
 while True:
     

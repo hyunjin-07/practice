@@ -1,5 +1,5 @@
-# Problem: 2588
-# Tier: Bronz
+# problem: 2588
+# tier: bronze
 
 A = int(input())
 B = int(input())

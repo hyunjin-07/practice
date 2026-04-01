@@ -1,5 +1,5 @@
-# Problem: 11654
-# Tier: Bronz
+# problem: 11654
+# tier: bronze
 
 # 입력받은 문자
 c = input()

@@ -1,5 +1,5 @@
-# Problem: 1546
-# Tier: Bronz
+# problem: 1546
+# tier: bronze
 
 # 과목 수 N 입력
 N = int(input())

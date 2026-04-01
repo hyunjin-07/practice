@@ -1,5 +1,5 @@
-# Problem: 2525
-# Tier: Bronz
+# problem: 2525
+# tier: bronze
 
 H, M = map(int, input().split())
 M2 = int(input())

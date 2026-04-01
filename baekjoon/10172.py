@@ -1,5 +1,5 @@
-# Problem: 10172
-# Tier: Bronz
+# problem: 10172
+# tier: bronze
 
 print("|\\_/|")
 print("|q p|   /}")

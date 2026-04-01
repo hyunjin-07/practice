@@ -1,5 +1,5 @@
-# Problem: 10950
-# Tier: Bronz
+# problem: 10950
+# tier: bronze
 
 T = int(input())
 for _ in range(T):

@@ -1,5 +1,5 @@
-# Problem: 18108
-# Tier: Bronz
+# problem: 18108
+# tier: bronze
 
 y = int(input())
 print(y - 543)

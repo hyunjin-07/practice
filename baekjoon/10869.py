@@ -1,5 +1,5 @@
-# Problem: 10869
-# Tier: Bronz
+# problem: 10869
+# tier: bronze
 
 A, B = map(int, input().split())
 print(A + B)

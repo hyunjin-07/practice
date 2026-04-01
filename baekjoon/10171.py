@@ -1,5 +1,5 @@
-# Problem: 10171
-# Tier: Bronz
+# problem: 10171
+# tier: bronze
 
 print("\\    /\\")
 print(" )  ( ')")

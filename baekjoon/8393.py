@@ -1,5 +1,5 @@
-# Problem: 8393
-# Tier: Bronz
+# problem: 8393
+# tier: bronze
 
 n = int(input())
 total = 0

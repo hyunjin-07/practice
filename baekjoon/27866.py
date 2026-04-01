@@ -1,5 +1,5 @@
-# Problem: 27866
-# Tier: Bronz
+# problem: 27866
+# tier: bronze
 
 # 문자열 S 입력
 S = input()

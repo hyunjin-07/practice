@@ -1,5 +1,5 @@
-# Problem: 3052
-# Tier: Bronz
+# problem: 3052
+# tier: bronze
 
 # 서로 다른 나머지를 저장할 집합(set) 생성
 arr = set()

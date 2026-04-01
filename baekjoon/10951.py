@@ -1,5 +1,5 @@
-# Problem: 10951
-# Tier: Bronz
+# problem: 10951
+# tier: bronze
 
 import sys
 
