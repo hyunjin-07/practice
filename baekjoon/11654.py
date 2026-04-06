@@ -5,4 +5,4 @@
 c = input()
 
 # ord() 함수로 ASCII 값 출력
-print(ord(c))
+print(ord(c)) 
